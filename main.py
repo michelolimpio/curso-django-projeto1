@@ -1,1 +1,1 @@
-lista = []
+print('Oi')
